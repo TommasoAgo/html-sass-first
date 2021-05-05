@@ -1,0 +1,29 @@
+$primary_color: #f5c842;
+$secondary_color: black;
+$font_family: 'Gill sans';
+$button_padding: 20px;
+
+h1 {
+    color: $primary_color;
+    text-align: center;
+}
+
+body {
+    background-color: $secondary_color;
+    font-family: $font_family;
+}
+
+p {
+    color: $primary_color;
+    text-align: center;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.buttons button {
+    padding: $button_padding;
+    color: $secondary_color;
+    background-color: $primary_color;
+}

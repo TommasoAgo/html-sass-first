@@ -1,3 +1,24 @@
+h1 {
+  color: #f5c842;
+  text-align: center;
+}
+
 body {
-  background-color: blue;
+  background-color: black;
+  font-family: "Gill sans";
+}
+
+p {
+  color: #f5c842;
+  text-align: center;
+}
+
+.buttons {
+  text-align: center;
+}
+
+.buttons button {
+  padding: 20px;
+  color: black;
+  background-color: #f5c842;
 }
